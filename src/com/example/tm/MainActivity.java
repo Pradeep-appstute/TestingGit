@@ -7,6 +7,8 @@ import android.view.MenuItem;
 
 
 public class MainActivity extends ActionBarActivity {
+	
+	private int name;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -16,6 +18,9 @@ public class MainActivity extends ActionBarActivity {
         //this is.
         
         // this is the second test for the git hub.
+        
+        
+        
         
     }
 
